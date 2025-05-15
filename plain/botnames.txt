@@ -63,3 +63,36 @@
 [BOT] U5S
 [BOT] Z80
 [BOT] Snapdragon 805
+[BOT] Emacs
+[BOT] Alexey V.
+[BOT] Evgeniy K.
+[BOT] Vladimir K.
+[BOT] Prikolist
+[BOT] Google Gemini
+[BOT] GPT
+[BOT] DeepSeek
+[BOT] Copilot
+[BOT] Claude
+[BOT] Llama
+[BOT] Kamaz
+[BOT] Holy Cyberdemon
+[BOT] Carl Johnson
+[BOT] Big Smoke
+[BOT] Tommy Vercetti
+[BOT] Sonny Forelli
+[BOT] Niko Bellic
+[BOT] Dimitri Rascalov
+[BOT] HIV
+[BOT] Mad Cow Disease
+[BOT] Syphilis
+[BOT] Encephalitis
+[BOT] Cancer
+[BOT] Gonorrhea
+[BOT] Chlamydia
+[BOT] Crazy Chicken Flu
+[BOT] Noob
+[BOT] Hacker
+[BOT] Cheater
+[BOT] Lucky
+[BOT] Tryhard
+[BOT] BlackDoomer
