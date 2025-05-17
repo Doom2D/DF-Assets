@@ -95,4 +95,4 @@
 [BOT] Cheater
 [BOT] Lucky
 [BOT] Tryhard
-[BOT] BlackDoomer
+[BOT] SchwarzDoomer
