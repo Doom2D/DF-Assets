@@ -64,8 +64,8 @@
 [BOT] Z80
 [BOT] Snapdragon 805
 [BOT] Emacs
-[BOT] Alexey V.
-[BOT] Evgeniy K.
+[BOT] Aleksey V.
+[BOT] Eugeny K.
 [BOT] Vladimir K.
 [BOT] Prikolist
 [BOT] Google Gemini
