@@ -1,5 +1,5 @@
 [ChatSounds]
-Count=88
+Count=94
 
 // Tags in entries are tested consequently, loop breaks at first exact match
 // Exact match means all tags in entry are matched
@@ -523,5 +523,41 @@ FullWord=-1
 Sound=CHATSND\SUCTION
 Tags=1
 Tag0=suck
+FullWord=-1
+
+[88]
+Sound=CHATSND\SETUP_TEST
+Tags=1
+Tag0=але
+FullWord=-1
+
+[89]
+Sound=CHATSND\SETUP_TEST
+Tags=1
+Tag0=алё
+FullWord=-1
+
+[90]
+Sound=CHATSND\SETUP_TEST
+Tags=1
+Tag0=ало
+FullWord=-1
+
+[91]
+Sound=CHATSND\SETUP_TEST
+Tags=1
+Tag0=алло
+FullWord=-1
+
+[92]
+Sound=CHATSND\SETUP_TEST
+Tags=1
+Tag0=алле
+FullWord=-1
+
+[93]
+Sound=CHATSND\SETUP_TEST
+Tags=1
+Tag0=аллё
 FullWord=-1
 
