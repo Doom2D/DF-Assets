@@ -1,5 +1,5 @@
 [ChatSounds]
-Count=94
+Count=99
 
 // Tags in entries are tested consequently, loop breaks at first exact match
 // Exact match means all tags in entry are matched
@@ -559,5 +559,42 @@ FullWord=-1
 Sound=CHATSND\SETUP_TEST
 Tags=1
 Tag0=аллё
+FullWord=-1
+
+[94]
+Sound=CHATSND\HEREIAM
+Tags=2
+Tag0=я
+Tag1=пришел
+FullWord=-1
+
+[95]
+Sound=CHATSND\HEREIAM
+Tags=2
+Tag0=я
+Tag1=пришёл
+FullWord=-1
+
+[96]
+Sound=CHATSND\HEREIAM
+Tags=2
+Tag0=я
+Tag1=тут
+FullWord=-1
+
+[97]
+Sound=CHATSND\HEREIAM
+Tags=2
+Tag0=я
+Tag1=здесь
+FullWord=-1
+
+[98]
+Sound=CHATSND\HEREIAM
+Tags=4
+Tag0=а
+Tag1=вот
+Tag2=и
+Tag3=я
 FullWord=-1
 
