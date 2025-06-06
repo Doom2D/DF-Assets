@@ -8,7 +8,7 @@ Count=88
 // If the tag is just a punctuation character, FullWord flag would be ignored
 
 [0]
-Sound=CHATSND\TEST1
+Sound=CHATSND\SETUP_TEST
 Tags=2
 Tag0=слышишь
 Tag1=?
