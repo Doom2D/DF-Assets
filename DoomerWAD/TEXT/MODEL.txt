@@ -52,15 +52,15 @@ mask=STANDMASK
 frames=1
 waitcount=1
 backanim=0
-BFG_points=23:1
 CSaw_points=30:2
 HGun_points=41:0
-MGun_points=23:0
-Plz_points=26:1
-Rkt_points=16:0
 Sg_points=22:0
-Spl_points=22:0
 Ssg_points=23:1
+MGun_points=23:0
+Rkt_points=16:0
+Plz_points=26:1
+BFG_points=23:1
+Spl_points=22:0
 Flm_points=24:2
 
 [WalkAnim]
@@ -69,15 +69,15 @@ mask=WALKMASK
 frames=4
 waitcount=8
 backanim=0
-BFG_points=23:0,24:-1,25:1,22:0
 CSaw_points=28:1,29:0,30:2,27:1
 HGun_points=41:-1,42:-2,43:0,40:-1
-MGun_points=22:-2,23:-3,24:-1,21:-2
-Plz_points=25:0,26:-1,27:1,24:0
-Rkt_points=16:-1,17:-2,18:0,15:-1
 Sg_points=22:0,23:-1,24:1,21:0
-Spl_points=22:-2,23:-3,24:-1,21:-2
 Ssg_points=24:0,25:-1,26:1,23:0
+MGun_points=22:-2,23:-3,24:-1,21:-2
+Rkt_points=16:-1,17:-2,18:0,15:-1
+Plz_points=25:0,26:-1,27:1,24:0
+BFG_points=23:0,24:-1,25:1,22:0
+Spl_points=22:-2,23:-3,24:-1,21:-2
 Flm_points=23:0,24:-1,25:1,22:0
 
 [Die1Anim]
@@ -100,15 +100,15 @@ mask=ATTACKMASK
 frames=1
 waitcount=3
 backanim=0
-BFG_points=22:1
 CSaw_points=30:2
 HGun_points=40:0
-MGun_points=23:0
-Plz_points=25:1
-Rkt_points=15:0
 Sg_points=21:0
-Spl_points=20:0
 Ssg_points=22:1
+MGun_points=23:0
+Rkt_points=15:0
+Plz_points=25:1
+BFG_points=22:1
+Spl_points=20:0
 Flm_points=23:2
 
 [SeeUpAnim]
@@ -117,15 +117,15 @@ mask=SEEUPMASK
 frames=1
 waitcount=3
 backanim=0
-BFG_points=21:-16
 CSaw_points=32:-6
 HGun_points=23:-32
-MGun_points=15:-17
-Plz_points=19:-18
-Rkt_points=17:-13
 Sg_points=25:-14
-Spl_points=16:-17
 Ssg_points=24:-13
+MGun_points=15:-17
+Rkt_points=17:-13
+Plz_points=19:-18
+BFG_points=21:-16
+Spl_points=16:-17
 Flm_points=19:-15
 
 [SeeDownAnim]
@@ -134,15 +134,15 @@ mask=SEEDOWNMASK
 frames=1
 waitcount=1
 backanim=0
-BFG_points=27:11
 CSaw_points=31:1
 HGun_points=42:19
-MGun_points=28:8
-Plz_points=28:8
-Rkt_points=22:6
 Sg_points=26:15
-Spl_points=28:7
 Ssg_points=24:13
+MGun_points=28:8
+Rkt_points=22:6
+Plz_points=28:8
+BFG_points=27:11
+Spl_points=28:7
 Flm_points=26:9
 
 [AttackUpAnim]
@@ -151,15 +151,15 @@ mask=ATTACKUPMASK
 frames=1
 waitcount=1
 backanim=0
-BFG_points=20:-16
 CSaw_points=31:-6
 HGun_points=22:-32
-MGun_points=14:-17
-Plz_points=18:-18
-Rkt_points=17:-13
 Sg_points=23:-14
-Spl_points=15:-18
 Ssg_points=23:-13
+MGun_points=14:-17
+Rkt_points=17:-13
+Plz_points=18:-18
+BFG_points=20:-16
+Spl_points=15:-18
 Flm_points=18:-15
 
 [AttackDownAnim]
@@ -168,15 +168,15 @@ mask=ATTACKDOWNMASK
 frames=1
 waitcount=1
 backanim=0
-BFG_points=26:11
 CSaw_points=30:1
 HGun_points=41:20
-MGun_points=28:8
-Plz_points=27:8
-Rkt_points=21:5
 Sg_points=26:15
-Spl_points=28:7
 Ssg_points=23:13
+MGun_points=28:8
+Rkt_points=21:5
+Plz_points=27:8
+BFG_points=26:11
+Spl_points=28:7
 Flm_points=25:9
 
 [PainAnim]
